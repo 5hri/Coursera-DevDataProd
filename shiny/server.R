@@ -25,7 +25,7 @@ shinyServer(
         output$inputweightvalue <- renderPrint({input$weight})
         output$inputheightvalue <- renderPrint({input$height})
         output$estimation <- renderPrint({BMI(input$weight,input$height)})
-        output$diagbmi <- renderPrint({bmidiag(input$weight,input$height)})
+        output$diagbmi <- renderPrint({diagbmi(input$weight,input$height)})
         
         #Ideal weight
         output$inputiwheight <- renderPrint({input$iwheight})

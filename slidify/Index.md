@@ -48,7 +48,7 @@ revealjs:
 ## Are you interested?
 
 - Our shinyapps.io ([Click here](http://bit.ly/1kLwP06))
-- GitHub ([Click here](http://bit.ly/1nrtceI))
+- GitHub ([Click here](https://github.com/5hri/Coursera-DevDataProd))
 
 
 

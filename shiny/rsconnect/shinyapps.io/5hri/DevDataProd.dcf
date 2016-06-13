@@ -1,0 +1,9 @@
+name: DevDataProd
+account: 5hri
+server: shinyapps.io
+appId: 108343
+bundleId: 478977
+url: https://5hri.shinyapps.io/DevDataProd/
+when: 1465804721.73413
+asMultiple: FALSE
+asStatic: FALSE

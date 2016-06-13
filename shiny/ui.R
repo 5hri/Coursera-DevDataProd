@@ -5,6 +5,7 @@
 #
 
 library(shiny)
+require(markdown)
 
 shinyUI(
     navbarPage("One stop health calculator",
